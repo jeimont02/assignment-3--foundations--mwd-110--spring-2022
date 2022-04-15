@@ -1,0 +1,40 @@
+:root{
+}
+
+html{
+
+  background-color: #0000FF;
+
+
+
+}
+
+  p {
+    color: red;
+    font-family: 'PT Serif', serif;
+  }
+
+  h1,
+  h2, {
+    color: #FF0000;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    }
+    {
+    color: #FF0000;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+  }
+  body{
+    color: #FF0000;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+  }
+
+  footer {
+    color: #FF0000;
+  };
+
+  a {
+    color: #FF0000;
+  }
